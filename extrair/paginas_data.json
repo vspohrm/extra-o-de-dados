@@ -1,0 +1,1301 @@
+{
+  "document": "paginas.pdf",
+  "source_path": "C:\\extrair\\paginas.pdf",
+  "total_pages": 8,
+  "extraction_timestamp": "2025-09-02 16:19:18.746862",
+  "pages": {
+    "page_1": {
+      "page_number": 1,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n2024 Annual Report",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd.",
+            "bbox": [
+              161.13299560546875,
+              653.5640258789062,
+              486.88507080078125,
+              682.5320434570312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "2024 Annual Report",
+            "bbox": [
+              218.73599243164062,
+              682.5330200195312,
+              429.24005126953125,
+              711.5010375976562
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 7,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd.",
+          "2024 Annual Report"
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_2": {
+      "page_number": 2,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\ni\nPershing Square Holdings, Ltd.\n2024 Annual Report and Audited Financial Statements\nAnnual Report\nCompany Overview....................................................................................................................................................................\n1\nCompany Performance.............................................................................................................................................................\n2\nChairman’s Statement..............................................................................................................................................................\n3\nInvestment Manager’s Report...............................................................................................................................................\n7\nPrincipal Risks and Uncertainties .........................................................................................................................................\n29\nDirectors ........................................................................................................................................................................................\n35\nReport of the Directors ............................................................................................................................................................\n38\nDirectors’ Remuneration Report...........................................................................................................................................\n49\nCorporate Governance Report...............................................................................................................................................\n52\nReport of the Audit Committee.............................................................................................................................................\n61\nReport of Independent Auditor.............................................................................................................................................\n66\nAudited Financial Statements\nStatement of Financial Position ............................................................................................................................................\n76\nStatement of Comprehensive Income ...............................................................................................................................\n78\nStatement of Changes in Equity...........................................................................................................................................\n79\nStatement of Cash Flows ........................................................................................................................................................\n80\nNotes to Financial Statements ..............................................................................................................................................\n81\nSupplemental U.S. GAAP Disclosures\nCondensed Schedule of Investments.................................................................................................................................\n118\nFinancial Highlights....................................................................................................................................................................\n120\nDisclosures\nCertain Regulatory Disclosures.............................................................................................................................................\n121\nAffirmation of the Commodity Pool Operator..................................................................................................................\n123\nEndnotes and Disclaimers.......................................................................................................................................................\n124",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. i",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.304443359375,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Pershing Square Holdings, Ltd.",
+            "bbox": [
+              54.0,
+              112.72500610351562,
+              298.3139953613281,
+              134.4510040283203
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "2024 Annual Report and Audited Financial Statements",
+            "bbox": [
+              54.0,
+              152.45201110839844,
+              482.83203125,
+              174.17800903320312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Annual Report",
+            "bbox": [
+              54.0,
+              200.0360107421875,
+              122.5999984741211,
+              212.156005859375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Company Overview .................................................................................................................................................................... 1",
+            "bbox": [
+              54.0,
+              216.16099548339844,
+              591.64794921875,
+              228.37100219726562
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Company Performance ............................................................................................................................................................. 2",
+            "bbox": [
+              54.0,
+              232.31399536132812,
+              591.64794921875,
+              244.5240020751953
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Chairman’s Statement .............................................................................................................................................................. 3",
+            "bbox": [
+              54.0,
+              248.4669952392578,
+              591.64794921875,
+              260.677001953125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Investment Manager’s Report ............................................................................................................................................... 7",
+            "bbox": [
+              54.0,
+              264.6200256347656,
+              591.64794921875,
+              276.83001708984375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Principal Risks and Uncertainties ......................................................................................................................................... 29",
+            "bbox": [
+              54.0,
+              280.7730407714844,
+              591.5469970703125,
+              292.9830322265625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Directors ........................................................................................................................................................................................ 35",
+            "bbox": [
+              54.0,
+              296.926025390625,
+              591.5469970703125,
+              309.1360168457031
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Report of the Directors ............................................................................................................................................................ 38",
+            "bbox": [
+              54.0,
+              313.0790100097656,
+              591.5469970703125,
+              325.28900146484375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Directors’ Remuneration Report ........................................................................................................................................... 49",
+            "bbox": [
+              54.0,
+              329.2320251464844,
+              591.5469970703125,
+              341.4420166015625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Corporate Governance Report ............................................................................................................................................... 52",
+            "bbox": [
+              54.0,
+              345.3850402832031,
+              591.5469970703125,
+              357.59503173828125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Report of the Audit Committee ............................................................................................................................................. 61",
+            "bbox": [
+              54.0,
+              361.53802490234375,
+              591.5469970703125,
+              373.7480163574219
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Report of Independent Auditor ............................................................................................................................................. 66",
+            "bbox": [
+              54.0,
+              377.6910095214844,
+              591.5469970703125,
+              389.9010009765625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Audited Financial Statements",
+            "bbox": [
+              54.0,
+              401.97998046875,
+              194.989990234375,
+              414.1000061035156
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Statement of Financial Position ............................................................................................................................................ 76",
+            "bbox": [
+              54.0,
+              420.0010070800781,
+              591.5469970703125,
+              432.21099853515625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Statement of Comprehensive Income ............................................................................................................................... 78",
+            "bbox": [
+              54.0,
+              436.1540222167969,
+              591.5469970703125,
+              448.364013671875
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Statement of Changes in Equity ........................................................................................................................................... 79",
+            "bbox": [
+              54.0,
+              452.3070373535156,
+              591.5469970703125,
+              464.51702880859375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Statement of Cash Flows ........................................................................................................................................................ 80",
+            "bbox": [
+              54.0,
+              468.46002197265625,
+              591.5469970703125,
+              480.6700134277344
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Notes to Financial Statements .............................................................................................................................................. 81",
+            "bbox": [
+              54.0,
+              484.613037109375,
+              591.5469970703125,
+              496.8230285644531
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Supplemental U.S. GAAP Disclosures",
+            "bbox": [
+              54.0,
+              508.9020080566406,
+              228.78997802734375,
+              521.0220336914062
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Condensed Schedule of Investments ................................................................................................................................. 118",
+            "bbox": [
+              54.0,
+              525.5730590820312,
+              591.6449584960938,
+              537.7830200195312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Financial Highlights .................................................................................................................................................................... 120",
+            "bbox": [
+              54.0,
+              541.7260131835938,
+              591.6449584960938,
+              553.9359741210938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Disclosures",
+            "bbox": [
+              54.0,
+              566.0150146484375,
+              107.4000015258789,
+              578.135009765625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Certain Regulatory Disclosures ............................................................................................................................................. 121",
+            "bbox": [
+              54.0,
+              582.6859741210938,
+              591.6449584960938,
+              594.8959350585938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Affirmation of the Commodity Pool Operator .................................................................................................................. 123",
+            "bbox": [
+              54.0,
+              598.8389892578125,
+              591.6449584960938,
+              611.0489501953125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Endnotes and Disclaimers ....................................................................................................................................................... 124",
+            "bbox": [
+              54.0,
+              614.9920043945312,
+              591.6449584960938,
+              627.2019653320312
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 126,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. i",
+          "Pershing Square Holdings, Ltd.",
+          "2024 Annual Report and Audited Financial Statements",
+          "Annual Report",
+          "Company Overview .................................................................................................................................................................... 1",
+          "Company Performance ............................................................................................................................................................. 2",
+          "Chairman’s Statement .............................................................................................................................................................. 3",
+          "Investment Manager’s Report ............................................................................................................................................... 7",
+          "Principal Risks and Uncertainties ......................................................................................................................................... 29",
+          "Directors ........................................................................................................................................................................................ 35",
+          "Report of the Directors ............................................................................................................................................................ 38",
+          "Directors’ Remuneration Report ........................................................................................................................................... 49",
+          "Corporate Governance Report ............................................................................................................................................... 52",
+          "Report of the Audit Committee ............................................................................................................................................. 61",
+          "Report of Independent Auditor ............................................................................................................................................. 66",
+          "Audited Financial Statements",
+          "Statement of Financial Position ............................................................................................................................................ 76",
+          "Statement of Comprehensive Income ............................................................................................................................... 78",
+          "Statement of Changes in Equity ........................................................................................................................................... 79",
+          "Statement of Cash Flows ........................................................................................................................................................ 80",
+          "Notes to Financial Statements .............................................................................................................................................. 81",
+          "Supplemental U.S. GAAP Disclosures",
+          "Condensed Schedule of Investments ................................................................................................................................. 118",
+          "Financial Highlights .................................................................................................................................................................... 120",
+          "Disclosures",
+          "Certain Regulatory Disclosures ............................................................................................................................................. 121",
+          "Affirmation of the Commodity Pool Operator .................................................................................................................. 123",
+          "Endnotes and Disclaimers ....................................................................................................................................................... 124"
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_3": {
+      "page_number": 3,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n1\nCompany Overview\nThe Company\nPershing Square Holdings, Ltd. (“PSH”, or the “Company”) (LN:PSH) (LN:PSHD) is an investment holding company structured \nas a closed-ended fund principally engaged in the business of acquiring and holding significant positions in a concentrated \nnumber of large capitalization companies. PSH’s objective is to maximize its long-term compound annual rate of growth in \nintrinsic value per share.\nPSH was incorporated with limited liability under the laws of the Bailiwick of Guernsey on February 2, 2012. It commenced \noperations on December 31, 2012 as a registered open-ended investment scheme, and on October 1, 2014 converted into a \nregistered closed-ended investment scheme. Public Shares of PSH commenced trading on Euronext Amsterdam N.V. on \nOctober 13, 2014 and were delisted from that exchange on January 31, 2025. On May 2, 2017, PSH’s Public Shares were \nadmitted to the Official List of the UK Listing Authority and commenced trading on the London Stock Exchange (“LSE”).\nPSH has appointed Pershing Square Capital Management, L.P. (“PSCM,” the “Investment Manager” or “Pershing Square”), as its \ninvestment manager. PSCM was founded by William A. Ackman on January 1, 2004. The Investment Manager has the \nresponsibility, subject to the overall supervision of the Board of Directors, for the investment of PSH’s assets and liabilities in \naccordance with the investment policy of PSH set forth on pages 38-39 of this Annual Report (the “Investment Policy”).\nThe substantial majority of the Company’s portfolio is typically allocated to 8 to 12 core holdings usually comprising liquid, \nlisted large capitalization North American companies. The Investment Manager seeks to invest in high-quality businesses, \nwhich it believes have limited downside and generate predictable, recurring cash flows. The Investment Manager is an active \nand engaged investor that works with its portfolio companies to create substantial, enduring and long-term shareholder value. \nThe Investment Manager aims to manage risks through careful investment selection and portfolio construction, and may use \nopportunistic hedging strategies to mitigate market-related downside risk or to take advantage of asymmetric profit \nopportunities. For more than 21 years, the investment strategy pursued by the Investment Manager has generated a 15.9% \nannualized net return and a cumulative net return of 2,171.6% for PSLP/PSH (as converted) compared to a 10.0% annualized \nnet return and a cumulative net return of 654.4% for the S&P 500, PSH’s historical benchmark index, during the same period.1,3",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 1",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Company Overview",
+            "bbox": [
+              54.0,
+              109.95999145507812,
+              258.384033203125,
+              138.92799377441406
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Company",
+            "bbox": [
+              54.0,
+              164.9199981689453,
+              123.2300033569336,
+              177.07000732421875
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Pershing Square Holdings, Ltd. (“PSH”, or the “Company”) (LN:PSH) (LN:PSHD) is an investment holding company structured as a closed-ended fund principally engaged in the business of acquiring and holding significant positions in a concentrated number of large capitalization companies. PSH’s objective is to maximize its long-term compound annual rate of growth in intrinsic value per share.",
+            "bbox": [
+              54.0,
+              186.0810089111328,
+              587.9500732421875,
+              236.81301879882812
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSH was incorporated with limited liability under the laws of the Bailiwick of Guernsey on February 2, 2012. It commenced operations on December 31, 2012 as a registered open-ended investment scheme, and on October 1, 2014 converted into a registered closed-ended investment scheme. Public Shares of PSH commenced trading on Euronext Amsterdam N.V. on October 13, 2014 and were delisted from that exchange on January 31, 2025. On May 2, 2017, PSH’s Public Shares were admitted to the Official List of the UK Listing Authority and commenced trading on the London Stock Exchange (“LSE”).",
+            "bbox": [
+              54.0,
+              247.09698486328125,
+              580.5401000976562,
+              310.8330078125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSH has appointed Pershing Square Capital Management, L.P. (“PSCM,” the “Investment Manager” or “Pershing Square”), as its investment manager. PSCM was founded by William A. Ackman on January 1, 2004. The Investment Manager has the responsibility, subject to the overall supervision of the Board of Directors, for the investment of PSH’s assets and liabilities in accordance with the investment policy of PSH set forth on pages 38-39 of this Annual Report (the “Investment Policy”).",
+            "bbox": [
+              54.0,
+              321.11700439453125,
+              592.5201416015625,
+              371.8490295410156
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The substantial majority of the Company’s portfolio is typically allocated to 8 to 12 core holdings usually comprising liquid, listed large capitalization North American companies. The Investment Manager seeks to invest in high-quality businesses, which it believes have limited downside and generate predictable, recurring cash flows. The Investment Manager is an active and engaged investor that works with its portfolio companies to create substantial, enduring and long-term shareholder value. The Investment Manager aims to manage risks through careful investment selection and portfolio construction, and may use opportunistic hedging strategies to mitigate market-related downside risk or to take advantage of asymmetric profit opportunities. For more than 21 years, the investment strategy pursued by the Investment Manager has generated a 15.9% annualized net return and a cumulative net return of 2,171.6% for PSLP/PSH (as converted) compared to a 10.0% annualized net return and a cumulative net return of 654.4% for the S&P 500, PSH’s historical benchmark index, during the same period. 1,3",
+            "bbox": [
+              54.0,
+              382.13299560546875,
+              594.780029296875,
+              497.885009765625
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 392,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 1",
+          "Company Overview",
+          "The Company",
+          "Pershing Square Holdings, Ltd. (“PSH”, or the “Company”) (LN:PSH) (LN:PSHD) is an investment holding company structured as a closed-ended fund principally engaged in the business of acquiring and holding significant positions in a concentrated number of large capitalization companies. PSH’s objective is to maximize its long-term compound annual rate of growth in intrinsic value per share.",
+          "PSH was incorporated with limited liability under the laws of the Bailiwick of Guernsey on February 2, 2012. It commenced operations on December 31, 2012 as a registered open-ended investment scheme, and on October 1, 2014 converted into a registered closed-ended investment scheme. Public Shares of PSH commenced trading on Euronext Amsterdam N.V. on October 13, 2014 and were delisted from that exchange on January 31, 2025. On May 2, 2017, PSH’s Public Shares were admitted to the Official List of the UK Listing Authority and commenced trading on the London Stock Exchange (“LSE”).",
+          "PSH has appointed Pershing Square Capital Management, L.P. (“PSCM,” the “Investment Manager” or “Pershing Square”), as its investment manager. PSCM was founded by William A. Ackman on January 1, 2004. The Investment Manager has the responsibility, subject to the overall supervision of the Board of Directors, for the investment of PSH’s assets and liabilities in accordance with the investment policy of PSH set forth on pages 38-39 of this Annual Report (the “Investment Policy”).",
+          "The substantial majority of the Company’s portfolio is typically allocated to 8 to 12 core holdings usually comprising liquid, listed large capitalization North American companies. The Investment Manager seeks to invest in high-quality businesses, which it believes have limited downside and generate predictable, recurring cash flows. The Investment Manager is an active and engaged investor that works with its portfolio companies to create substantial, enduring and long-term shareholder value. The Investment Manager aims to manage risks through careful investment selection and portfolio construction, and may use opportunistic hedging strategies to mitigate market-related downside risk or to take advantage of asymmetric profit opportunities. For more than 21 years, the investment strategy pursued by the Investment Manager has generated a 15.9% annualized net return and a cumulative net return of 2,171.6% for PSLP/PSH (as converted) compared to a 10.0% annualized net return and a cumulative net return of 654.4% for the S&P 500, PSH’s historical benchmark index, during the same period. 1,3"
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_4": {
+      "page_number": 4,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n2\nCompany Performance\nPershing Square Holdings, Ltd. and Pershing Square, L.P. (“PSLP”) NAV Performance vs the S&P 500\nPSLP/PSH Net Return*\nPSLP Net Return(1,2)\nS&P 500(3)\n2004\n42.6 %\n42.6 %\n10.9 %\n2005\n39.9 %\n39.9 %\n4.9 %\n2006\n22.5 %\n22.5 %\n15.8 %\n2007\n22.0 %\n22.0 %\n5.6 %\n2008\n(13.0)%\n(13.0)%\n(37.0)%\n2009\n40.6 %\n40.6 %\n26.4 %\n2010\n29.7 %\n29.7 %\n15.1 %\n2011\n(1.1)%\n(1.1)%\n2.1 %\n2012\n13.3 %\n13.3 %\n16.0 %\n2013\n9.6 %\n9.7 %\n32.4 %\n2014\n40.4 %\n36.9 %\n13.7 %\n2015\n(20.5)%\n(16.2)%\n1.4 %\n2016\n(13.5)%\n(9.6)%\n11.9 %\n2017\n(4.0)%\n(1.6)%\n21.8 %\n2018\n(0.7)%\n(1.2)%\n(4.4)%\n2019\n58.1 %\n44.1 %\n31.5 %\n2020\n70.2 %\n56.6 %\n18.4 %\n2021\n26.9 %\n22.9 %\n28.7 %\n2022\n(8.8)%\n(7.8)%\n(18.1)%\n2023\n26.7 %\n20.8 %\n26.3 %\n2024\n10.2 %\n8.2 %\n25.0 %\nYear-to-date through March 11, 2025\n(0.6)%\n0.1 %\n(5.0)%\nJanuary 1, 2004–March 11, 2025(1,4)\nCumulative Return (Since Inception)\n2,171.6 %\n1,862.9 %\n654.4 %\nCompound Annual Return\n15.9 %\n15.1 %\n10.0 %\nDecember 31, 2012–March 11, 2025(1,4)\nCumulative Return (Since PSH Inception)\n328.5 %\n270.3 %\n388.8 %\nCompound Annual Return\n12.7 %\n11.3 %\n13.9 %\n*NAV return an investor would have earned if it invested in PSLP at its January 1, 2004 inception and converted to PSH at its launch on December 31, 2012. Also see endnote 1 \non page 125. Past performance is not a guarantee of future results. All investments involve risk, including the loss of principal. Please see accompanying endnotes and \nimportant disclaimers on pages 124-128.",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 2",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Company Performance",
+            "bbox": [
+              54.0,
+              109.95999145507812,
+              293.97601318359375,
+              138.92799377441406
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Pershing Square Holdings, Ltd. and Pershing Square, L.P. (“PSLP”) NAV Performance vs the S&P 500",
+            "bbox": [
+              54.0,
+              144.91998291015625,
+              561.5997924804688,
+              157.0699920654297
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSLP/PSH Net Return* PSLP Net Return (1,2) S&P 500 (3)",
+            "bbox": [
+              260.78900146484375,
+              396.3055114746094,
+              581.196044921875,
+              405.41802978515625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "2004 42.6 % 42.6 % 10.9 % 2005 39.9 % 39.9 % 4.9 % 2006 22.5 % 22.5 % 15.8 % 2007 22.0 % 22.0 % 5.6 % 2008 (13.0)% (13.0)% (37.0)% 2009 40.6 % 40.6 % 26.4 % 2010 29.7 % 29.7 % 15.1 % 2011 (1.1)% (1.1)% 2.1 % 2012 13.3 % 13.3 % 16.0 % 2013 9.6 % 9.7 % 32.4 % 2014 40.4 % 36.9 % 13.7 % 2015 (20.5)% (16.2)% 1.4 % 2016 (13.5)% (9.6)% 11.9 % 2017 (4.0)% (1.6)% 21.8 % 2018 (0.7)% (1.2)% (4.4)% 2019 58.1 % 44.1 % 31.5 % 2020 70.2 % 56.6 % 18.4 % 2021 26.9 % 22.9 % 28.7 % 2022 (8.8)% (7.8)% (18.1)% 2023 26.7 % 20.8 % 26.3 % 2024 10.2 % 8.2 % 25.0 % Year-to-date through March 11, 2025 (0.6)% 0.1 % (5.0)%",
+            "bbox": [
+              54.0,
+              406.6200256347656,
+              591.4400024414062,
+              625.4169311523438
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "January 1, 2004–March 11, 2025 (1,4)",
+            "bbox": [
+              54.0,
+              630.8405151367188,
+              207.08697509765625,
+              639.9530029296875
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Cumulative Return (Since Inception) 2,171.6 % 1,862.9 % 654.4 % Compound Annual Return 15.9 % 15.1 % 10.0 %",
+            "bbox": [
+              54.0,
+              641.155029296875,
+              590.2250366210938,
+              659.9519653320312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "December 31, 2012–March 11, 2025 (1,4)",
+            "bbox": [
+              54.0,
+              664.87548828125,
+              221.427978515625,
+              673.9879760742188
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Cumulative Return (Since PSH Inception) 328.5 % 270.3 % 388.8 % Compound Annual Return 12.7 % 11.3 % 13.9 %",
+            "bbox": [
+              54.0,
+              675.1900634765625,
+              590.2250366210938,
+              693.9869995117188
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "*NAV return an investor would have earned if it invested in PSLP at its January 1, 2004 inception and converted to PSH at its launch on December 31, 2012. Also see endnote 1 on page 125. Past performance is not a guarantee of future results. All investments involve risk, including the loss of principal. Please see accompanying endnotes and important disclaimers on pages 124-128.",
+            "bbox": [
+              54.0,
+              699.60693359375,
+              575.2412719726562,
+              723.2789916992188
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 282,
+        "has_content": true
+      },
+      "images": {
+        "count": 2,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          },
+          {
+            "index": 2,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 2",
+          "Company Performance",
+          "Pershing Square Holdings, Ltd. and Pershing Square, L.P. (“PSLP”) NAV Performance vs the S&P 500",
+          "PSLP/PSH Net Return* PSLP Net Return (1,2) S&P 500 (3)",
+          "2004 42.6 % 42.6 % 10.9 % 2005 39.9 % 39.9 % 4.9 % 2006 22.5 % 22.5 % 15.8 % 2007 22.0 % 22.0 % 5.6 % 2008 (13.0)% (13.0)% (37.0)% 2009 40.6 % 40.6 % 26.4 % 2010 29.7 % 29.7 % 15.1 % 2011 (1.1)% (1.1)% 2.1 % 2012 13.3 % 13.3 % 16.0 % 2013 9.6 % 9.7 % 32.4 % 2014 40.4 % 36.9 % 13.7 % 2015 (20.5)% (16.2)% 1.4 % 2016 (13.5)% (9.6)% 11.9 % 2017 (4.0)% (1.6)% 21.8 % 2018 (0.7)% (1.2)% (4.4)% 2019 58.1 % 44.1 % 31.5 % 2020 70.2 % 56.6 % 18.4 % 2021 26.9 % 22.9 % 28.7 % 2022 (8.8)% (7.8)% (18.1)% 2023 26.7 % 20.8 % 26.3 % 2024 10.2 % 8.2 % 25.0 % Year-to-date through March 11, 2025 (0.6)% 0.1 % (5.0)%",
+          "January 1, 2004–March 11, 2025 (1,4)",
+          "Cumulative Return (Since Inception) 2,171.6 % 1,862.9 % 654.4 % Compound Annual Return 15.9 % 15.1 % 10.0 %",
+          "December 31, 2012–March 11, 2025 (1,4)",
+          "Cumulative Return (Since PSH Inception) 328.5 % 270.3 % 388.8 % Compound Annual Return 12.7 % 11.3 % 13.9 %",
+          "*NAV return an investor would have earned if it invested in PSLP at its January 1, 2004 inception and converted to PSH at its launch on December 31, 2012. Also see endnote 1 on page 125. Past performance is not a guarantee of future results. All investments involve risk, including the loss of principal. Please see accompanying endnotes and important disclaimers on pages 124-128."
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_5": {
+      "page_number": 5,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n3\nChairman’s Statement\nINTRODUCTION\nThe past several years have been marked by some of the most complex macroeconomic conditions in recent history, and 2024 \nwas no exception. Investors continued to grapple with inflationary pressures that, while moderating, remained above central \nbank targets. The prolonged tightening cycle has caused shifting expectations around rate cuts, which created a complicated \nenvironment for markets.  \n2024 also presented a complex geopolitical landscape, with markets remaining volatile amid uncertainty surrounding the U.S. \npresidential election for most of the year and ongoing conflicts in Eastern Europe and the Middle East. The associated \nuncertainty and tension added another layer of complexity to an already challenging macroeconomic environment.  \nDespite these headwinds, U.S. equity markets demonstrated resilience, driven largely by the strength of a handful of mega-cap \ntechnology companies. While the results of those companies led to strong index-level returns, they also underscored the \ngrowing dispersion in results among the underlying companies. Against this backdrop, the Board is pleased to report that PSH \ndelivered solid performance over the year, benefiting from a disciplined investment approach and a focus on high-quality, \ndurable businesses positioned to make sound business progress in varying economic environments.  \nThe Investment Manager takes a long-term approach to investing and the Board does not expect NAV appreciation to \noutperform the S&P 500 every year. Rather, it expects the Investment Manager to outperform over the long-term – and it has \ndone so over recent periods. The Board commends the Investment Manager’s impressive 22.9% seven-year compound annual \nNAV return and 22.2% five-year compound annual NAV return as of December 31, 2024; as well as share price appreciation of \n21.1% and 21.6%, respectively, over the same periods.i,ii So, while the Investment Manager underperformed the S&P 500 in \n2024, it has outperformed the S&P 500 over the seven and five year periods.iii\nThe Investment Manager has had a strong relative start to 2025 with a year-to-date return of -0.6% and share price \nappreciation of 0.1% as of March 11, 2025.iv  By comparison, the S&P 500 has decreased 5.0% over the same period.\nDuring the year, the Board engaged in a number of corporate actions to benefit shareholders, which I discuss in detail below. \nThe Investment Manager also undertook several corporate initiatives designed to position itself for continued long-term \nsuccess. The Board was pleased to see that in addition to these initiatives, the Investment Manager made three new \ninvestments over the past year, demonstrating robust idea generation and investment activity.  \nI detail PSH’s investment performance as well as provide additional information about recent actions taken by the Board in the \npages that follow.   \nINVESTMENT PERFORMANCE\nDuring the year ended December 31, 2024, PSH’s Net Asset Value (“NAV”) per share, including dividends, increased by 10.2% \nnet of fees, ending the year at $71.11 per share. PSH’s share price increased by 8.3% over the same period as a result of the \nwidening of the discount to NAV at which PSH shares traded from 29.6% to 31.2%.v,vi By comparison, the S&P 500 increased \n25.0% during the year ended December 31, 2024.\nThe performance of the entire portfolio along with additional information about the Investment Manager’s hedging program is \ndiscussed in more detail in the Investment Manager’s Report.",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 3",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Chairman’s Statement",
+            "bbox": [
+              54.0,
+              109.95999145507812,
+              286.7760009765625,
+              138.92799377441406
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "INTRODUCTION",
+            "bbox": [
+              54.0,
+              167.13400268554688,
+              141.10800170898438,
+              181.67799377441406
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The past several years have been marked by some of the most complex macroeconomic conditions in recent history, and 2024 was no exception. Investors continued to grapple with inflationary pressures that, while moderating, remained above central bank targets. The prolonged tightening cycle has caused shifting expectations around rate cuts, which created a complicated environment for markets.",
+            "bbox": [
+              54.0,
+              191.73399353027344,
+              592.760009765625,
+              241.14599609375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "2024 also presented a complex geopolitical landscape, with markets remaining volatile amid uncertainty surrounding the U.S. presidential election for most of the year and ongoing conflicts in Eastern Europe and the Middle East. The associated uncertainty and tension added another layer of complexity to an already challenging macroeconomic environment.",
+            "bbox": [
+              54.0,
+              250.989990234375,
+              591.0101318359375,
+              287.8380126953125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Despite these headwinds, U.S. equity markets demonstrated resilience, driven largely by the strength of a handful of mega-cap technology companies. While the results of those companies led to strong index-level returns, they also underscored the growing dispersion in results among the underlying companies. Against this backdrop, the Board is pleased to report that PSH delivered solid performance over the year, benefiting from a disciplined investment approach and a focus on high-quality, durable businesses positioned to make sound business progress in varying economic environments.",
+            "bbox": [
+              54.0,
+              297.6820068359375,
+              592.6600952148438,
+              359.65802001953125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Investment Manager takes a long-term approach to investing and the Board does not expect NAV appreciation to outperform the S&P 500 every year. Rather, it expects the Investment Manager to outperform over the long-term – and it has done so over recent periods. The Board commends the Investment Manager’s impressive 22.9% seven-year compound annual NAV return and 22.2% five-year compound annual NAV return as of December 31, 2024; as well as share price appreciation of 21.1% and 21.6%, respectively, over the same periods. i,ii So, while the Investment Manager underperformed the S&P 500 in 2024, it has outperformed the S&P 500 over the seven and five year periods. iii",
+            "bbox": [
+              54.0,
+              369.5019836425781,
+              593.30029296875,
+              444.0419921875
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Investment Manager has had a strong relative start to 2025 with a year-to-date return of -0.6% and share price appreciation of 0.1% as of March 11, 2025. iv By comparison, the S&P 500 has decreased 5.0% over the same period.",
+            "bbox": [
+              54.0,
+              453.885986328125,
+              547.2501831054688,
+              478.1700134277344
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "During the year, the Board engaged in a number of corporate actions to benefit shareholders, which I discuss in detail below. The Investment Manager also undertook several corporate initiatives designed to position itself for continued long-term success. The Board was pleased to see that in addition to these initiatives, the Investment Manager made three new investments over the past year, demonstrating robust idea generation and investment activity.",
+            "bbox": [
+              54.0,
+              488.01397705078125,
+              586.0399780273438,
+              537.4259643554688
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "I detail PSH’s investment performance as well as provide additional information about recent actions taken by the Board in the pages that follow.",
+            "bbox": [
+              54.0,
+              547.27001953125,
+              595.72021484375,
+              571.5540161132812
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "INVESTMENT PERFORMANCE",
+            "bbox": [
+              54.0,
+              581.552978515625,
+              213.33602905273438,
+              596.0969848632812
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "During the year ended December 31, 2024, PSH’s Net Asset Value (“NAV”) per share, including dividends, increased by 10.2% net of fees, ending the year at $71.11 per share. PSH’s share price increased by 8.3% over the same period as a result of the widening of the discount to NAV at which PSH shares traded from 29.6% to 31.2%. v,vi By comparison, the S&P 500 increased 25.0% during the year ended December 31, 2024.",
+            "bbox": [
+              54.0,
+              606.1529541015625,
+              589.5800170898438,
+              655.56494140625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The performance of the entire portfolio along with additional information about the Investment Manager’s hedging program is discussed in more detail in the Investment Manager’s Report.",
+            "bbox": [
+              54.0,
+              665.4089965820312,
+              594.9301147460938,
+              689.6929931640625
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 535,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 3",
+          "Chairman’s Statement",
+          "INTRODUCTION",
+          "The past several years have been marked by some of the most complex macroeconomic conditions in recent history, and 2024 was no exception. Investors continued to grapple with inflationary pressures that, while moderating, remained above central bank targets. The prolonged tightening cycle has caused shifting expectations around rate cuts, which created a complicated environment for markets.",
+          "2024 also presented a complex geopolitical landscape, with markets remaining volatile amid uncertainty surrounding the U.S. presidential election for most of the year and ongoing conflicts in Eastern Europe and the Middle East. The associated uncertainty and tension added another layer of complexity to an already challenging macroeconomic environment.",
+          "Despite these headwinds, U.S. equity markets demonstrated resilience, driven largely by the strength of a handful of mega-cap technology companies. While the results of those companies led to strong index-level returns, they also underscored the growing dispersion in results among the underlying companies. Against this backdrop, the Board is pleased to report that PSH delivered solid performance over the year, benefiting from a disciplined investment approach and a focus on high-quality, durable businesses positioned to make sound business progress in varying economic environments.",
+          "The Investment Manager takes a long-term approach to investing and the Board does not expect NAV appreciation to outperform the S&P 500 every year. Rather, it expects the Investment Manager to outperform over the long-term – and it has done so over recent periods. The Board commends the Investment Manager’s impressive 22.9% seven-year compound annual NAV return and 22.2% five-year compound annual NAV return as of December 31, 2024; as well as share price appreciation of 21.1% and 21.6%, respectively, over the same periods. i,ii So, while the Investment Manager underperformed the S&P 500 in 2024, it has outperformed the S&P 500 over the seven and five year periods. iii",
+          "The Investment Manager has had a strong relative start to 2025 with a year-to-date return of -0.6% and share price appreciation of 0.1% as of March 11, 2025. iv By comparison, the S&P 500 has decreased 5.0% over the same period.",
+          "During the year, the Board engaged in a number of corporate actions to benefit shareholders, which I discuss in detail below. The Investment Manager also undertook several corporate initiatives designed to position itself for continued long-term success. The Board was pleased to see that in addition to these initiatives, the Investment Manager made three new investments over the past year, demonstrating robust idea generation and investment activity.",
+          "I detail PSH’s investment performance as well as provide additional information about recent actions taken by the Board in the pages that follow.",
+          "INVESTMENT PERFORMANCE",
+          "During the year ended December 31, 2024, PSH’s Net Asset Value (“NAV”) per share, including dividends, increased by 10.2% net of fees, ending the year at $71.11 per share. PSH’s share price increased by 8.3% over the same period as a result of the widening of the discount to NAV at which PSH shares traded from 29.6% to 31.2%. v,vi By comparison, the S&P 500 increased 25.0% during the year ended December 31, 2024.",
+          "The performance of the entire portfolio along with additional information about the Investment Manager’s hedging program is discussed in more detail in the Investment Manager’s Report."
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_6": {
+      "page_number": 6,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n4\nINVESTMENT MANAGER\nThe Board has delegated the task of managing PSH’s assets to the Investment Manager as set out in the Investment \nManagement Agreement (“IMA”) entered into by PSH and PSCM at the inception of PSH (as amended from time to time). \nAlthough the Board does not make individual investment decisions, the Board is ultimately accountable for oversight of the \nInvestment Manager.\nThe Investment Manager is a fundamental value investor that utilises a range of engagement strategies to unlock long-term \nvalue for shareholders and, among other things, seeks to invest in excellent businesses, which it believes have limited \ndownside. These businesses tend to be large cap companies domiciled in North America that generate relatively predictable \nand growing free cash flows, with formidable barriers to entry and a compelling value proposition. The Investment Manager \ncontinues to engage constructively with many of PSH’s portfolio companies through direct board representation in some \nsituations, and less formal, private engagement in others.\nPSH continues to believe that its ability to access low cost, long-term, investment grade debt is a competitive advantage, and \nits long-term debt management strategy is to manage leverage over time by increasing NAV through strong performance and \nreplacing maturing bonds with new issuances. PSH’s debt profile is comprised of a laddered set of maturities, matching its \nlong-term investment horizon, with a weighted average maturity of 7 years and a weighted average cost of capital of 3.1% as \nof March 11, 2025. PSH’s total debt to total capital ratio as of March 11, 2025 is 15.7%.vii The Board believes that this amount \nof leverage is conservative, particularly given the quality, liquidity and mark-to-mark nature of PSH’s portfolio assets. PSH \ndoes not have any margin leverage nor any mark-to-market covenants on its outstanding bonds.\nPORTFOLIO CHANGES\nAs I wrote in my letter to you in August, the Investment Manager established new investments in Nike, which is in the early \nstages of a turnaround under new CEO Elliott Hill, and Brookfield, a leading alternative asset manager with high-quality and \nrapidly growing cash flows. Earlier this year, the Investment Manager also initiated an investment in Uber, the world’s leading \nrideshare and delivery marketplace that is well positioned for rapid earnings growth over the medium-term.\nFurther information on the PSH portfolio can be found in the Investment Manager’s Report.\nCORPORATE ACTIONS\nThe Board has undertaken a number of corporate actions over the past year.\n•\nOn June 3, 2024, the Investment Manager announced that it completed a sale to strategic investors of a 10% \ncommon equity interest in Pershing Square Holdco, L.P., a newly formed limited partnership that owns 100% of \nthe Investment Manager. The Board was supportive of this transaction which it believed would not impact the \nInvestment Manager’s team, its role in managing PSH, or the Investment Manager’s obligations under the IMA. The \nBoard further recognises that the strategic sale to a group of world-class, long-term partners will bolster the \nInvestment Manager’s business, for the benefit of PSH shareholders.\n•\nSince 2022, the Company has utilised a methodology for determining the future dividends that PSH pays which \nincrease based on NAV growth. In January 2025, based on this methodology, the dividends for 2025 increased by \n13%, the third increase since the adoption of the methodology. The dividend has now increased by 65% since the \ncommencement of the dividend program.",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 4",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "INVESTMENT MANAGER",
+            "bbox": [
+              54.0,
+              169.90899658203125,
+              187.17601013183594,
+              184.45298767089844
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Board has delegated the task of managing PSH’s assets to the Investment Manager as set out in the Investment Management Agreement (“IMA”) entered into by PSH and PSCM at the inception of PSH (as amended from time to time). Although the Board does not make individual investment decisions, the Board is ultimately accountable for oversight of the Investment Manager.",
+            "bbox": [
+              54.0,
+              194.50900268554688,
+              580.1400756835938,
+              243.92100524902344
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Investment Manager is a fundamental value investor that utilises a range of engagement strategies to unlock long-term value for shareholders and, among other things, seeks to invest in excellent businesses, which it believes have limited downside. These businesses tend to be large cap companies domiciled in North America that generate relatively predictable and growing free cash flows, with formidable barriers to entry and a compelling value proposition. The Investment Manager continues to engage constructively with many of PSH’s portfolio companies through direct board representation in some situations, and less formal, private engagement in others.",
+            "bbox": [
+              54.0,
+              253.76498413085938,
+              584.7100830078125,
+              328.30499267578125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSH continues to believe that its ability to access low cost, long-term, investment grade debt is a competitive advantage, and its long-term debt management strategy is to manage leverage over time by increasing NAV through strong performance and replacing maturing bonds with new issuances. PSH’s debt profile is comprised of a laddered set of maturities, matching its long-term investment horizon, with a weighted average maturity of 7 years and a weighted average cost of capital of 3.1% as of March 11, 2025. PSH’s total debt to total capital ratio as of March 11, 2025 is 15.7%. vii The Board believes that this amount of leverage is conservative, particularly given the quality, liquidity and mark-to-mark nature of PSH’s portfolio assets. PSH does not have any margin leverage nor any mark-to-market covenants on its outstanding bonds.",
+            "bbox": [
+              54.0,
+              338.14898681640625,
+              587.8201904296875,
+              425.2530212402344
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PORTFOLIO CHANGES",
+            "bbox": [
+              54.0,
+              435.25201416015625,
+              178.53599548339844,
+              449.7960205078125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "As I wrote in my letter to you in August, the Investment Manager established new investments in Nike, which is in the early stages of a turnaround under new CEO Elliott Hill, and Brookfield, a leading alternative asset manager with high-quality and rapidly growing cash flows. Earlier this year, the Investment Manager also initiated an investment in Uber, the world’s leading rideshare and delivery marketplace that is well positioned for rapid earnings growth over the medium-term.",
+            "bbox": [
+              54.0,
+              459.85198974609375,
+              592.4501953125,
+              509.2640075683594
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "Further information on the PSH portfolio can be found in the Investment Manager’s Report.",
+            "bbox": [
+              54.0,
+              519.1079711914062,
+              442.77001953125,
+              530.8279418945312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "CORPORATE ACTIONS",
+            "bbox": [
+              54.0,
+              540.8270263671875,
+              179.49600219726562,
+              555.3710327148438
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Board has undertaken a number of corporate actions over the past year.",
+            "bbox": [
+              54.0,
+              565.427001953125,
+              379.080078125,
+              577.14697265625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "• On June 3, 2024, the Investment Manager announced that it completed a sale to strategic investors of a 10% common equity interest in Pershing Square Holdco, L.P., a newly formed limited partnership that owns 100% of the Investment Manager. The Board was supportive of this transaction which it believed would not impact the Investment Manager’s team, its role in managing PSH, or the Investment Manager’s obligations under the IMA. The Board further recognises that the strategic sale to a group of world-class, long-term partners will bolster the Investment Manager’s business, for the benefit of PSH shareholders.",
+            "bbox": [
+              78.44999694824219,
+              583.9840087890625,
+              592.4300537109375,
+              659.073974609375
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "• Since 2022, the Company has utilised a methodology for determining the future dividends that PSH pays which increase based on NAV growth. In January 2025, based on this methodology, the dividends for 2025 increased by 13%, the third increase since the adoption of the methodology. The dividend has now increased by 65% since the commencement of the dividend program.",
+            "bbox": [
+              78.44999694824219,
+              665.9110107421875,
+              587.22998046875,
+              715.8729248046875
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 559,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 4",
+          "INVESTMENT MANAGER",
+          "The Board has delegated the task of managing PSH’s assets to the Investment Manager as set out in the Investment Management Agreement (“IMA”) entered into by PSH and PSCM at the inception of PSH (as amended from time to time). Although the Board does not make individual investment decisions, the Board is ultimately accountable for oversight of the Investment Manager.",
+          "The Investment Manager is a fundamental value investor that utilises a range of engagement strategies to unlock long-term value for shareholders and, among other things, seeks to invest in excellent businesses, which it believes have limited downside. These businesses tend to be large cap companies domiciled in North America that generate relatively predictable and growing free cash flows, with formidable barriers to entry and a compelling value proposition. The Investment Manager continues to engage constructively with many of PSH’s portfolio companies through direct board representation in some situations, and less formal, private engagement in others.",
+          "PSH continues to believe that its ability to access low cost, long-term, investment grade debt is a competitive advantage, and its long-term debt management strategy is to manage leverage over time by increasing NAV through strong performance and replacing maturing bonds with new issuances. PSH’s debt profile is comprised of a laddered set of maturities, matching its long-term investment horizon, with a weighted average maturity of 7 years and a weighted average cost of capital of 3.1% as of March 11, 2025. PSH’s total debt to total capital ratio as of March 11, 2025 is 15.7%. vii The Board believes that this amount of leverage is conservative, particularly given the quality, liquidity and mark-to-mark nature of PSH’s portfolio assets. PSH does not have any margin leverage nor any mark-to-market covenants on its outstanding bonds.",
+          "PORTFOLIO CHANGES",
+          "As I wrote in my letter to you in August, the Investment Manager established new investments in Nike, which is in the early stages of a turnaround under new CEO Elliott Hill, and Brookfield, a leading alternative asset manager with high-quality and rapidly growing cash flows. Earlier this year, the Investment Manager also initiated an investment in Uber, the world’s leading rideshare and delivery marketplace that is well positioned for rapid earnings growth over the medium-term.",
+          "Further information on the PSH portfolio can be found in the Investment Manager’s Report.",
+          "CORPORATE ACTIONS",
+          "The Board has undertaken a number of corporate actions over the past year.",
+          "• On June 3, 2024, the Investment Manager announced that it completed a sale to strategic investors of a 10% common equity interest in Pershing Square Holdco, L.P., a newly formed limited partnership that owns 100% of the Investment Manager. The Board was supportive of this transaction which it believed would not impact the Investment Manager’s team, its role in managing PSH, or the Investment Manager’s obligations under the IMA. The Board further recognises that the strategic sale to a group of world-class, long-term partners will bolster the Investment Manager’s business, for the benefit of PSH shareholders.",
+          "• Since 2022, the Company has utilised a methodology for determining the future dividends that PSH pays which increase based on NAV growth. In January 2025, based on this methodology, the dividends for 2025 increased by 13%, the third increase since the adoption of the methodology. The dividend has now increased by 65% since the commencement of the dividend program."
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_7": {
+      "page_number": 7,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n5\n•\nIn January 2024, the Board engaged outside advisors to review the Company’s listing on the Euronext Amsterdam \nin light of the fact that the majority of the trading of PSH’s shares occurs on the LSE. The Board concluded that \ndelisting from Euronext Amsterdam and consolidating trading on the LSE would reduce regulatory complexity and \nimprove liquidity of PSH’s shares which would be to the benefit of PSH shareholders. The last day of trading of PSH \nShares on Euronext Amsterdam was on January 30, 2025, and delisting occurred on January 31, 2025.\n•\nThe Board authorised a total of $200 million in share repurchase programs in 2024. During the year ended \nDecember 31, 2024, the Company repurchased 2.5 million shares at an average price of $47.07 and an average \ndiscount to NAV of 30.6%. As of December 31, 2024, PSH has spent $1.4 billion to repurchase 67.0 million shares, \nrepresenting 26.9% of initial shares outstanding, at an average price of $21.24 and an average discount to NAV of \n29.3% since initiating its first share repurchase program on May 2, 2017.viii\nDISCOUNT TO NAV\nThe Board closely monitors the discount to NAV at which PSH’s Public Shares trade. During 2024, the discount widened to \n31.2% as of December 31, 2024, but has since narrowed slightly to 30.9% as of March 11, 2025.ix   \nAs discussed in previous communications, in February 2024, the Board disclosed that it approved amendments to the Variable \nPerformance Fee provisions in PSH’s IMA that could reduce the performance fees paid by PSH.   \nIn conjunction with that announcement, the Investment Manager discussed plans to launch new investment funds and on July \n9, 2024, the Investment Manager launched a roadshow for the initial public offering of the common shares of Pershing Square \nUSA, Ltd. (“PSUS”), a new investment holding company that was to be listed on the New York Stock Exchange. On July 31, 2024, \nthe Investment Manager withdrew the PSUS IPO noting that it had decided to re-evaluate PSUS’s structure in light of investor \nfeedback.   \nDuring that July period, PSH’s discount to NAV narrowed meaningfully in anticipation of the PSUS IPO and potential associated \nreduction in PSH performance fees.   \nThe Board continues to believe that the introduction of additional funds managed by the Investment Manager will be a \npositive catalyst to narrow the discount to NAV at which PSH shares currently trade, and that the most powerful driver of \nlong-term shareholder returns and discount narrowing will be continued strong absolute and relative NAV performance.  \nCORPORATE GOVERNANCE / BOARD\nThe Board continues to work effectively and diligently on behalf of all shareholders. Nicholas Botta retired as a non-executive \ndirector of the Company on November 15, 2024, having served as a director since 2012. Mr Botta has been a tremendous \ndirector and asset to the Board. The Board thanks him for his many contributions.\nThe Nomination Committee subsequently recommended the appointment of Halit Coussin, Chief Legal Officer and Chief \nCompliance Officer of the Investment Manager, to the Board as a non-executive director. Ms Coussin joined the Board with \neffect from November 15, 2024.\nEVENTS / SHAREHOLDER ENGAGEMENT\nPSH’s annual investor meeting was held on February 11, 2025. We had more investors in attendance this year than ever before \nand we were pleased to welcome hundreds more to the webcast of the event. I thoroughly enjoyed the opportunity to interact",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 5",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "• In January 2024, the Board engaged outside advisors to review the Company’s listing on the Euronext Amsterdam in light of the fact that the majority of the trading of PSH’s shares occurs on the LSE. The Board concluded that delisting from Euronext Amsterdam and consolidating trading on the LSE would reduce regulatory complexity and improve liquidity of PSH’s shares which would be to the benefit of PSH shareholders. The last day of trading of PSH Shares on Euronext Amsterdam was on January 30, 2025, and delisting occurred on January 31, 2025.",
+            "bbox": [
+              78.44999694824219,
+              169.7469940185547,
+              593.7000732421875,
+              232.2729949951172
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "• The Board authorised a total of $200 million in share repurchase programs in 2024. During the year ended December 31, 2024, the Company repurchased 2.5 million shares at an average price of $47.07 and an average discount to NAV of 30.6%. As of December 31, 2024, PSH has spent $1.4 billion to repurchase 67.0 million shares, representing 26.9% of initial shares outstanding, at an average price of $21.24 and an average discount to NAV of 29.3% since initiating its first share repurchase program on May 2, 2017. viii",
+            "bbox": [
+              78.44999694824219,
+              239.1099853515625,
+              586.6302490234375,
+              301.635986328125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "DISCOUNT TO NAV",
+            "bbox": [
+              54.0,
+              311.635009765625,
+              161.0159912109375,
+              326.17901611328125
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Board closely monitors the discount to NAV at which PSH’s Public Shares trade. During 2024, the discount widened to 31.2% as of December 31, 2024, but has since narrowed slightly to 30.9% as of March 11, 2025. ix",
+            "bbox": [
+              54.0,
+              336.2349853515625,
+              575.5799560546875,
+              360.5190124511719
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "As discussed in previous communications, in February 2024, the Board disclosed that it approved amendments to the Variable Performance Fee provisions in PSH’s IMA that could reduce the performance fees paid by PSH.",
+            "bbox": [
+              54.0,
+              370.36297607421875,
+              594.2401123046875,
+              394.6470031738281
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "In conjunction with that announcement, the Investment Manager discussed plans to launch new investment funds and on July 9, 2024, the Investment Manager launched a roadshow for the initial public offering of the common shares of Pershing Square USA, Ltd. (“PSUS”), a new investment holding company that was to be listed on the New York Stock Exchange. On July 31, 2024, the Investment Manager withdrew the PSUS IPO noting that it had decided to re-evaluate PSUS’s structure in light of investor feedback.",
+            "bbox": [
+              54.0,
+              404.490966796875,
+              595.8400268554688,
+              466.46697998046875
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "During that July period, PSH’s discount to NAV narrowed meaningfully in anticipation of the PSUS IPO and potential associated reduction in PSH performance fees.",
+            "bbox": [
+              54.0,
+              476.31097412109375,
+              594.4400634765625,
+              500.5950012207031
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Board continues to believe that the introduction of additional funds managed by the Investment Manager will be a positive catalyst to narrow the discount to NAV at which PSH shares currently trade, and that the most powerful driver of long-term shareholder returns and discount narrowing will be continued strong absolute and relative NAV performance.",
+            "bbox": [
+              54.0,
+              510.43896484375,
+              572.5301513671875,
+              547.2869262695312
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "CORPORATE GOVERNANCE / BOARD",
+            "bbox": [
+              54.0,
+              557.2860107421875,
+              265.1640319824219,
+              571.8300170898438
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Board continues to work effectively and diligently on behalf of all shareholders. Nicholas Botta retired as a non-executive director of the Company on November 15, 2024, having served as a director since 2012. Mr Botta has been a tremendous director and asset to the Board. The Board thanks him for his many contributions.",
+            "bbox": [
+              54.0,
+              581.885986328125,
+              589.5900268554688,
+              618.7339477539062
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "The Nomination Committee subsequently recommended the appointment of Halit Coussin, Chief Legal Officer and Chief Compliance Officer of the Investment Manager, to the Board as a non-executive director. Ms Coussin joined the Board with effect from November 15, 2024.",
+            "bbox": [
+              54.0,
+              628.5780029296875,
+              576.2300415039062,
+              665.4259643554688
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "EVENTS / SHAREHOLDER ENGAGEMENT",
+            "bbox": [
+              54.0,
+              675.4249877929688,
+              273.5760803222656,
+              689.968994140625
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSH’s annual investor meeting was held on February 11, 2025. We had more investors in attendance this year than ever before and we were pleased to welcome hundreds more to the webcast of the event. I thoroughly enjoyed the opportunity to interact",
+            "bbox": [
+              54.0,
+              700.0249633789062,
+              595.8601684570312,
+              724.3089599609375
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 563,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 5",
+          "• In January 2024, the Board engaged outside advisors to review the Company’s listing on the Euronext Amsterdam in light of the fact that the majority of the trading of PSH’s shares occurs on the LSE. The Board concluded that delisting from Euronext Amsterdam and consolidating trading on the LSE would reduce regulatory complexity and improve liquidity of PSH’s shares which would be to the benefit of PSH shareholders. The last day of trading of PSH Shares on Euronext Amsterdam was on January 30, 2025, and delisting occurred on January 31, 2025.",
+          "• The Board authorised a total of $200 million in share repurchase programs in 2024. During the year ended December 31, 2024, the Company repurchased 2.5 million shares at an average price of $47.07 and an average discount to NAV of 30.6%. As of December 31, 2024, PSH has spent $1.4 billion to repurchase 67.0 million shares, representing 26.9% of initial shares outstanding, at an average price of $21.24 and an average discount to NAV of 29.3% since initiating its first share repurchase program on May 2, 2017. viii",
+          "DISCOUNT TO NAV",
+          "The Board closely monitors the discount to NAV at which PSH’s Public Shares trade. During 2024, the discount widened to 31.2% as of December 31, 2024, but has since narrowed slightly to 30.9% as of March 11, 2025. ix",
+          "As discussed in previous communications, in February 2024, the Board disclosed that it approved amendments to the Variable Performance Fee provisions in PSH’s IMA that could reduce the performance fees paid by PSH.",
+          "In conjunction with that announcement, the Investment Manager discussed plans to launch new investment funds and on July 9, 2024, the Investment Manager launched a roadshow for the initial public offering of the common shares of Pershing Square USA, Ltd. (“PSUS”), a new investment holding company that was to be listed on the New York Stock Exchange. On July 31, 2024, the Investment Manager withdrew the PSUS IPO noting that it had decided to re-evaluate PSUS’s structure in light of investor feedback.",
+          "During that July period, PSH’s discount to NAV narrowed meaningfully in anticipation of the PSUS IPO and potential associated reduction in PSH performance fees.",
+          "The Board continues to believe that the introduction of additional funds managed by the Investment Manager will be a positive catalyst to narrow the discount to NAV at which PSH shares currently trade, and that the most powerful driver of long-term shareholder returns and discount narrowing will be continued strong absolute and relative NAV performance.",
+          "CORPORATE GOVERNANCE / BOARD",
+          "The Board continues to work effectively and diligently on behalf of all shareholders. Nicholas Botta retired as a non-executive director of the Company on November 15, 2024, having served as a director since 2012. Mr Botta has been a tremendous director and asset to the Board. The Board thanks him for his many contributions.",
+          "The Nomination Committee subsequently recommended the appointment of Halit Coussin, Chief Legal Officer and Chief Compliance Officer of the Investment Manager, to the Board as a non-executive director. Ms Coussin joined the Board with effect from November 15, 2024.",
+          "EVENTS / SHAREHOLDER ENGAGEMENT",
+          "PSH’s annual investor meeting was held on February 11, 2025. We had more investors in attendance this year than ever before and we were pleased to welcome hundreds more to the webcast of the event. I thoroughly enjoyed the opportunity to interact"
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    },
+    "page_8": {
+      "page_number": 8,
+      "dimensions": {
+        "width": 648.0,
+        "height": 828.0
+      },
+      "text": {
+        "raw_text": "Pershing Square Holdings, Ltd.\n6\nwith many of you and look forward to doing so again next year. During the meeting, the Investment Manager presented a \nportfolio update. Slides from the presentation are available on PSH’s website: www.pershingsquareholdings.com. \nPSH’s 2025 AGM will be held on May 1, 2025. Details of the event will be posted on www.pershingsquareholdings.com.  \nI will report to you on the first half of 2025 in August 2025, and the Investment Manager will keep you informed of any \nsignificant developments in the portfolio before then, when appropriate. \n/s/ Rupert Morley\nRupert Morley\nChairman of the Board \nMarch 14, 2025",
+        "formatted_blocks": [
+          {
+            "text": "Pershing Square Holdings, Ltd. 6",
+            "bbox": [
+              55.0,
+              753.4840698242188,
+              593.3009643554688,
+              763.7435913085938
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "with many of you and look forward to doing so again next year. During the meeting, the Investment Manager presented a portfolio update. Slides from the presentation are available on PSH’s website: www.pershingsquareholdings.com .",
+            "bbox": [
+              54.0,
+              169.75399780273438,
+              570.2401123046875,
+              194.03799438476562
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "PSH’s 2025 AGM will be held on May 1, 2025. Details of the event will be posted on www.pershingsquareholdings.com .",
+            "bbox": [
+              54.0,
+              203.8820037841797,
+              562.9798583984375,
+              215.6020050048828
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "I will report to you on the first half of 2025 in August 2025, and the Investment Manager will keep you informed of any significant developments in the portfolio before then, when appropriate.",
+            "bbox": [
+              54.0,
+              225.4459991455078,
+              561.0000610351562,
+              249.72999572753906
+            ],
+            "type": "paragraph"
+          },
+          {
+            "text": "/s/ Rupert Morley Rupert Morley Chairman of the Board March 14, 2025",
+            "bbox": [
+              54.0,
+              272.13800048828125,
+              152.62998962402344,
+              333.44097900390625
+            ],
+            "type": "paragraph"
+          }
+        ],
+        "word_count": 102,
+        "has_content": true
+      },
+      "images": {
+        "count": 1,
+        "details": [
+          {
+            "index": 1,
+            "error": "unsupported colorspace for 'png'"
+          }
+        ],
+        "extracted_paths": []
+      },
+      "structure": {
+        "headings": [],
+        "paragraphs": [
+          "Pershing Square Holdings, Ltd. 6",
+          "with many of you and look forward to doing so again next year. During the meeting, the Investment Manager presented a portfolio update. Slides from the presentation are available on PSH’s website: www.pershingsquareholdings.com .",
+          "PSH’s 2025 AGM will be held on May 1, 2025. Details of the event will be posted on www.pershingsquareholdings.com .",
+          "I will report to you on the first half of 2025 in August 2025, and the Investment Manager will keep you informed of any significant developments in the portfolio before then, when appropriate.",
+          "/s/ Rupert Morley Rupert Morley Chairman of the Board March 14, 2025"
+        ],
+        "lists": [],
+        "tables": []
+      },
+      "metadata": {
+        "has_charts": false,
+        "has_tables": false,
+        "content_type": "text"
+      }
+    }
+  }
+}
